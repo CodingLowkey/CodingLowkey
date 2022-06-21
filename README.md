@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">A passionate developer from the Netherlands</h3>
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76112b9689d541502d410d649d92a02c1c0fbd6f06da&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codinglowkey&label=Profile%20views&color=0e75b6&style=flat" alt="codinglowkey" /> </p>
 
