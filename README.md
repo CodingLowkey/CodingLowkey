@@ -1,4 +1,4 @@
-<h1>Hello, I'm Reza! <br/><a href="https://github.com/CodingLowkey">Programmer</a>, <a href="#">Motivated</a>, <a href="#">Learner.</a></h1>
+<h1>Hello, I'm Reza! <br/><a href="https://github.com/CodingLowkey">Programmer</a>, <a href="#">And a Motivated</a><a href="#">Learner.</a></h1>
 
 <h2>👨‍💻 Programming Projects:</h2>
 
