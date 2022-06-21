@@ -1,5 +1,5 @@
 <h1>Hello, I'm Reza🖐</h1>
-<h2 style="background-color:DodgerBlue;">Programmer and a Motivated learner.</h2>
+<h2 style="background-color: blue">Programmer and a Motivated learner.</h2>
 - 👀 I’m interested in Learning new things and Creating my own things.
 <hr>
 - 🌱 I’m currently learning about Habits, Economy, Psychology and  OFC Coding.
