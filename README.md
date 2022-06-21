@@ -27,5 +27,5 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=codinglowkey&show_icons=true&locale=en" alt="codinglowkey" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=codinglowkey&" alt="codinglowkey" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=codinglowkey&" alt="codinglowkey" /></p>
 
