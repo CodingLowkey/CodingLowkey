@@ -23,9 +23,9 @@
 
 <h3 align="left">Certificates:</h3>
 <p align="left">Coming soon</p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=codinglowkey&show_icons=true&locale=en&layout=compact" alt="codinglowkey" /></p>
+<p><img style="margin-top: 10px;" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=codinglowkey&show_icons=true&locale=en&layout=compact" alt="codinglowkey" /></p>
 
-<p>&nbsp;<img style="margin-top: 10px;" align="left" src="https://github-readme-stats.vercel.app/api?username=codinglowkey&show_icons=true&locale=en" alt="codinglowkey" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=codinglowkey&show_icons=true&locale=en" alt="codinglowkey" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=codinglowkey&" alt="codinglowkey" /></p>
 
