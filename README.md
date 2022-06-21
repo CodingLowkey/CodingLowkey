@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @CodingLowkey
 - 👀 I’m interested in Learning new things and Creating my own things.
+<hr>
 - 🌱 I’m currently learning about Habits, Economy, Psychology and  OFC Coding.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Please dont :p
